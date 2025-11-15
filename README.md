@@ -29,3 +29,4 @@
 | [Engineering Practices for Building Quality Software](https://coursera.org/verify/MYDG2EKXZNWN) | Apr 21, 2024 | University of Minnesota | ✅ |
 | [Microservice Architectures](https://coursera.org/verify/UVK7V47PF3BB) | Apr 11, 2025 | Vanderbilt University | ✅ |
 | [Service-Oriented Architecture](https://coursera.org/verify/K7JVKSSG2O3Z) | Apr 12, 2025 | University of Alberta | ✅ |
+| [Ethics, Technology and Engineering](https://coursera.org/verify/2Y3IDYVW0NAA) | Nov 15, 2025 | 4TU.Ethics / Eindhoven University of Technology | ✅ |
